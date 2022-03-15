@@ -1,0 +1,31 @@
+{
+  "name": "nodejs-backend-practice",
+  "version": "1.0.0",
+  "description": "Buenas practicas con nodejs",
+  "main": "app.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bk-sin/nodejs-backend.git"
+  },
+  "author": "bk-sin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bk-sin/nodejs-backend/issues"
+  },
+  "homepage": "https://github.com/bk-sin/nodejs-backend#readme",
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-import": "^2.25.4",
+    "eslint-plugin-mocha": "^10.0.3",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.2.0",
+    "eslint-plugin-security": "^1.4.0"
+  }
+}
