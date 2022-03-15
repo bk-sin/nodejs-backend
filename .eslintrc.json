@@ -8,7 +8,8 @@
     "eslint:recommended",
     "plugin:node/recommended",
     "plugin:mocha/recommended",
-    "plugin:security/recommended"
+    "plugin:security/recommended",
+    "prettier"
   ],
   "parserOptions": {
     "ecmaVersion": "latest",
