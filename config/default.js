@@ -1,5 +1,18 @@
 module.exports = {
-  SQL_URI: "localhost:8080",
-  DOMAIN: "localhost:3000",
-  PORT: 3000,
+  port: 3000,
+  domain: "localhost",
+
+  //DATABASE
+  sql_uri: "localhost",
+
+  //Emails
+  email: {
+    provider: "example",
+    user: "X",
+    password: "Y",
+  },
+
+  //Logger
+
+  logger: "dev",
 }
