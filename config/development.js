@@ -1,1 +1,3 @@
-export const DOMAIN = "dev.myapp.com"
+module.exports = {
+  DOMAIN: "dev.myapp.com",
+}
