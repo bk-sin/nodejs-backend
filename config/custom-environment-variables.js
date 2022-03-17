@@ -3,4 +3,5 @@ module.exports = {
     port: "PORT",
     domain: "DOMAIN",
   },
+  NODE_ENV: "NODE_ENV",
 }
